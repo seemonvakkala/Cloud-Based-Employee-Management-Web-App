@@ -248,7 +248,7 @@ Important links & commands
 }
 -------------------------------------------------------------------------
 
-Git Hub url : https://github.com/zubair3337/aws-project-1.git  
+Git Hub url : https://github.com/seemonvakkala/Cloud-Based-Employee-Management-Web-App.git 
 
 App server commands
 
